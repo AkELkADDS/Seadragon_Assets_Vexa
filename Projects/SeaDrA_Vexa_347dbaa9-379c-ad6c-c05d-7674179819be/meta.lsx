@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="347dbaa9-379c-ad6c-c05d-7674179819be"/>
+            <attribute id="Name" type="LSString" value="SeaDrA_Vexa"/>
+            <attribute id="UUID" type="LSString" value="57e4289a-fcc3-9f35-6cc4-1152ffacc887"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

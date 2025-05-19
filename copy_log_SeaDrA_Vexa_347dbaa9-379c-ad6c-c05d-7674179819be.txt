@@ -1,0 +1,360 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be 
+   Mon 05/19/2025  7:39:27.66 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be: 1 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Content\[PAK]_SeaDrA_Vexa\0d85ebe6-fa35-42c1-8566-194593bed921.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Content\[PAK]_SeaDrA_Vexa\2a165fd5-02a9-a1ff-009a-f749f5e47b14.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Content\[PAK]_SeaDrA_Vexa\5443884e-21fc-6964-50aa-179dda5c4814.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Content\[PAK]_SeaDrA_Vexa\691c7cbc-c4b7-e05b-b126-602c48b17b39.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Content\[PAK]_SeaDrA_Vexa\83266e1f-7b3c-2d6c-a76f-aa6f961f0f2d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Content\[PAK]_SeaDrA_Vexa\a2bbc9f5-1eae-76e9-9d18-1dd47cf0fab6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Content\[PAK]_SeaDrA_Vexa\a3fcbda6-18c5-3043-4f4b-a6a1d6e14f3d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Content\[PAK]_SeaDrA_Vexa\a9a99433-41db-3492-7be1-f6bab1c4f05d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Content\[PAK]_SeaDrA_Vexa\b81ff81c-712f-dcd5-7883-1f3fcbc8aa41.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Content\[PAK]_SeaDrA_Vexa\c0296608-0ada-4954-1358-dd730eddebb0.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Content\[PAK]_SeaDrA_Vexa\f8cb82e7-5e08-b4eb-e76c-5ef2c4959ac1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FVexa_Top_Pearl_AntlersFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FVexa_Jaw_Pearl_CoralRFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FVexa_Jaw_Pearl_CoralRFrills.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be: 15 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FVexa_Top_Pearl_AntlersFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FVexa_Jaw_Pearl_CoralRFrills.GR2 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be: 2 
+ 
+[LOG] Total files found across all folders: 24 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Projects\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be to Projects\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be 
+[DEBUG] Using destination: Projects\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:39:31 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\
+     Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Projects\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     689	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\meta.lsx100%  
+	    New File  		   1.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\thumbnail.png 65%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    1.14 m    1.14 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           1197351000 Bytes/sec.
+   Speed :            68512.973 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:39:31 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Editor\Mods\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be to "Editor\Mods"\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be 
+[DEBUG] Using destination: Editor\Mods\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:39:32 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\
+     Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Editor\Mods\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   89201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\CharacterCreation\CharacterCreationAppearanceVisuals.tbl  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         2         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    87.1 k    87.1 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, May 19, 2025 7:39:32 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Mods\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be to Mods\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be 
+[DEBUG] Using destination: Mods\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:39:34 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\
+     Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Mods\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    7800	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\meta.lsx100%  
+	    New File  		   1.1 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\mod_publish_logo.png100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\GUI\metadata.lsf100%  
+	    New File  		    7327	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :    1.15 m    1.15 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           404310000 Bytes/sec.
+   Speed :           23134.803 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:39:34 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be to Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be 
+[DEBUG] Using destination: Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:39:36 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\
+     Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   65667	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		    2828	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Content\[PAK]_SeaDrA_Vexa\0d85ebe6-fa35-42c1-8566-194593bed921.lsf100%  
+	    New File  		    3092	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Content\[PAK]_SeaDrA_Vexa\2a165fd5-02a9-a1ff-009a-f749f5e47b14.lsf100%  
+	    New File  		    3087	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Content\[PAK]_SeaDrA_Vexa\5443884e-21fc-6964-50aa-179dda5c4814.lsf100%  
+	    New File  		    3088	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Content\[PAK]_SeaDrA_Vexa\691c7cbc-c4b7-e05b-b126-602c48b17b39.lsf100%  
+	    New File  		    3093	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Content\[PAK]_SeaDrA_Vexa\83266e1f-7b3c-2d6c-a76f-aa6f961f0f2d.lsf100%  
+	    New File  		    3087	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Content\[PAK]_SeaDrA_Vexa\a2bbc9f5-1eae-76e9-9d18-1dd47cf0fab6.lsf100%  
+	    New File  		    3089	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Content\[PAK]_SeaDrA_Vexa\a3fcbda6-18c5-3043-4f4b-a6a1d6e14f3d.lsf100%  
+	    New File  		    3087	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Content\[PAK]_SeaDrA_Vexa\a9a99433-41db-3492-7be1-f6bab1c4f05d.lsf100%  
+	    New File  		    3087	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Content\[PAK]_SeaDrA_Vexa\b81ff81c-712f-dcd5-7883-1f3fcbc8aa41.lsf100%  
+	    New File  		    3093	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Content\[PAK]_SeaDrA_Vexa\c0296608-0ada-4954-1358-dd730eddebb0.lsf100%  
+	    New File  		    3088	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Content\[PAK]_SeaDrA_Vexa\f8cb82e7-5e08-b4eb-e76c-5ef2c4959ac1.lsf100%  
+	    New File  		  144340	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FVexa_Jaw_Pearl_CoralRFrills.GR2100%  
+	    New File  		     224	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FVexa_Jaw_Pearl_CoralRFrills.xml100%  
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FVexa_Top_Pearl_AntlersFrills.GR2100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        12        12         1         0         0         0
+   Files :        15        15         0         0         0         0
+   Bytes :    2.29 m    2.29 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           344392857 Bytes/sec.
+   Speed :           19706.317 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:39:36 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 15 
+[DEBUG] Successfully copied files: 15 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be: 
+      Total files: 15 
+      Copied successfully: 15 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Generated\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be to "Generated\Public"\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be 
+[DEBUG] Using destination: Generated\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:39:37 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\
+     Dest : C:\GIT_BG3\MOD_REPOS\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Generated\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FVexa_Top_Pearl_AntlersFrills.GR2100%  
+	    New File  		  144340	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FVexa_Jaw_Pearl_CoralRFrills.GR2100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         9         9         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    2.20 m    2.20 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           770380000 Bytes/sec.
+   Speed :           44081.497 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:39:37 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 15 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\SeaDrA_Vexa_347dbaa9-379c-ad6c-c05d-7674179819be 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 24 
+[SUMMARY] Total files successfully copied: 48 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 
